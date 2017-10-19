@@ -4,7 +4,6 @@
   "version": "0.6.2",
   "main": [
     "./viewport-units-buggyfill.js",
-    "./viewport-units-buggyfill.hacks.js"
   ],
   "ignore": [
     "**/.*",
